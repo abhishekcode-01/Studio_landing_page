@@ -1,7 +1,4 @@
 
-Memory updated
-Here's a guide on how to write a clear and engaging description for your HTML and CSS project:
-
 Project Overview: Describe the project's purpose and what it aims to achieve. For example:
 
 "This project is a responsive webpage design showcasing a personal portfolio. It demonstrates clean, modern design principles and uses HTML and CSS for structure and styling."
